@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola!!
 
-<!--
-**devdannyrivera/devdannyrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Danny, me apasiona mucho la programacion, actualmente estoy cursando el cuarto año de la poderosisima carrera de ***Ingenieria de Sistemas***. Mi meta es algun dia llegar a ser un ***Senior JavaScript Developer ***.
 
-Here are some ideas to get you started:
+## Sigueme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:fa-twitter: [@dev_dannyrivera][1]
+[1]: https://twitter.com/dev_dannyrivera "twitter" 
+:fa-instagram: [dev_dannyrivera][2]
+[2]: https://www.instagram.com/dev_dannyrivera/ "instagram" 
+:fa-linkedin: [Danny Rivera][3]
+[3]: https://www.linkedin.com/in/danny-rivera-s%C3%A1enz-560647138/ "linked-in"
+
+![Logo](https://ibb.co/qxsvsXc "Logo")
